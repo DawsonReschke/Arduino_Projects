@@ -1,1 +1,1 @@
-Blinking LED. This simple arduino sketch pulses a LED on for 500ms then off for 500ms UNLESS the button is pressed. then the LED will blink on for 250ms and off for 250ms.
+Blinking LED. This simple arduino sketch pulses a LED on for 500ms then off for 500ms UNLESS the button is pressed. then the LED will blink on for 250ms and off for 250ms. This is done using the delay and digital read/write methods. 
