@@ -4,6 +4,9 @@
  * Using a LCD to display the number of times a button was pressed. 
  * 
  * This sketch includes: Interrupts, External Libraries, & I2C (i^2c) communication
+ * 
+ * I2C uses two pins : scl(Clock) , sda(Data)
+ * The two pins on the arduino are (a4:sda),(a5:scl)
  */
 
 
