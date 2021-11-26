@@ -1,5 +1,5 @@
-#Arduino_Projects
-##I want to learn Arduino, so I have created this repo to show my progress and projects.
+Arduino_Projects
+I want to learn Arduino, so I have created this repo to show my progress and projects.
 
 This project includes: 
 -	LED - Light Emmiting Diode
