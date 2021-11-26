@@ -1,8 +1,8 @@
 # Arduino_Projects
 
-I want to learn Arduino, so I have created this repo to show my progress and projects.
+###### I want to learn Arduino, so I have created this repo to show my progress and projects.
 
-This project includes: 
+## This project includes: 
 -	LED - Light Emmiting Diode
 		1. Button Controlled light // using 'digitalRead' to control the state of the program.
 		2. Potentiometer controlled light // using 'analogRead' to control the state of the program
