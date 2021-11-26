@@ -4,12 +4,10 @@
 
 ## This project includes: 
 -	LED - Light Emmiting Diode  
-```
 		1. [Button Controlled light](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LED%20-%20Light%20Emitting%20Diode/blinking_light_with_button) // using 'digitalRead' to control the state of the program.  
-		2. Potentiometer controlled light // using 'analogRead' to control the state of the program  
-		3. Interrupt controlled light // using 'attachInterrupt' and an 'ISR' (Interrupt Service Routine) to control the state of the program  
-		4. Linear Cyclone // remake of the popular arcade game 'Cyclone'  
-```
+		2. [Potentiometer controlled light](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LED%20-%20Light%20Emitting%20Diode/blinking_light_pot) // using 'analogRead' to control the state of the program  
+		3. [Interrupt controlled light](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LED%20-%20Light%20Emitting%20Diode/blinking_light_interrupt) // using 'attachInterrupt' and an 'ISR' (Interrupt Service Routine) to control the state of the program  
+		4. [Linear Cyclone](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LED%20-%20Light%20Emitting%20Diode/Linear%20Cyclone) // remake of the popular arcade game 'Cyclone'  
 -	LCD - Liquid Crystal Display  
 		1. Button  
 		2.  
