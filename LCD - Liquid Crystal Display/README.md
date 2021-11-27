@@ -4,6 +4,6 @@
 Learning ALL of the ins and outs of this specific LCD display is not quite what I am after. I want to better understand using new librarys for arduino. I plan on learning many librarys for many things, so I find it important to be capable of picking up a new library whenever necessary.
 
 ### Projects in the section:  
--Click Counter : Counts the amount of times the user presses a button, then displays that count on the LCD  
--Potentiometer Reader : Uses 'analogRead' to display a voltage from a potentiometer  
+-[Click Counter](https://github.com/DawsonReschke/Arduino_Projects/tree/test/LCD%20-%20Liquid%20Crystal%20Display/Click%20Counter) : Counts the amount of times the user presses a button, then displays that count on the LCD  
+-[Potentiometer Reader](https://github.com/DawsonReschke/Arduino_Projects/tree/test/LCD%20-%20Liquid%20Crystal%20Display/Potentiometer%20Reader/LCD_analog_read) : Uses 'analogRead' to display a voltage from a potentiometer  
 
