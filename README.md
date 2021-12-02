@@ -10,7 +10,7 @@
 		4. [Linear Cyclone](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LED%20-%20Light%20Emitting%20Diode/Linear%20Cyclone) // remake of the popular arcade game 'Cyclone'  
 -	LCD - Liquid Crystal Display  
 		1. [Button Counter](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LCD%20-%20Liquid%20Crystal%20Display/LCD_Button_Counter)
-		2. [Potentiometer Voltage Reader](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LCD%20-%20Liquid%20Crystal%20Display/LCD_Button_Counter)
+		2. [Potentiometer Voltage Reader](https://github.com/DawsonReschke/Arduino_Projects/tree/test/LCD%20-%20Liquid%20Crystal%20Display/Potentiometer%20Reader)
 		F. [Timer](https://github.com/DawsonReschke/Arduino_Projects/tree/master/LCD%20-%20Liquid%20Crystal%20Display/LCD_Button_Counter)  
 -	RTC (DS3231) - Real Time Clock  
 -	(NRF24L01+) - BlueTooth  
